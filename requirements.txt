@@ -1,0 +1,9 @@
+langchain_community
+langchain
+PyPDF2
+langchain-google-genai
+pandas
+python-dotenv
+langchain-astradb
+
+-e .
